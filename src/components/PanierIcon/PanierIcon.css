@@ -1,0 +1,7 @@
+.panierIconBox{
+    position: relative; display: flex; padding: 0px;
+} 
+
+.panierIconBox span{
+    position: absolute; top: -15px; right: -12px; background-color: #275101; color: #fff; padding: 5px 10px; font-weight: 900; border-radius: 50%;
+}
