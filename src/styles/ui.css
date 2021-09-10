@@ -1,0 +1,47 @@
+.show-flex{
+    display: flex;
+}
+
+.show-block{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.row{
+    display: flex; flex-direction: row; width: '100%'; margin: 0px;
+}
+
+.column{
+    display: flex; flex-direction: column;
+}
+
+.center-flex{
+    justify-content: center; align-items: center;
+}
+
+.pr-darken-bg{
+    background-color: #275101;
+}
+
+.pr-darken-fore{
+    color: #275101;
+}
+
+.pr-main-bg{
+    background-color: #669128;
+}
+
+.montserrat{
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+.roboto{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.noto_sans{
+    font-family: 'Noto Sans', Arial, Helvetica, sans-serif;
+}
