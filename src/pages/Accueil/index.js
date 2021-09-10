@@ -114,7 +114,7 @@ export default function Accueil(){
             <div className="row center-flex">
                 {
                     b_data_1.map((item, index) => {
-                        return <Card2 key={index} imgSrc={item.imgSrc} name={item.name} price={item.price} />
+                        return <Card2 key={index} imgSrc={item.imgSrc} name={item.name} price={item.price} action={ajouterAuPanier} />
                     })
                 }
             </div>
