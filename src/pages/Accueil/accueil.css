@@ -1,0 +1,58 @@
+.accueil-first-row{
+    height: 63px;
+}
+
+.accueil-first-row h6{
+    font-size: 16px; font-weight: 600; line-height: 18px; color: #fff;
+}
+
+.accueil-search-logo-container {
+    padding: 0px; border-bottom: 1px solid #c4c4c4;
+}
+
+@media only screen and (min-width: 1224px) {
+    .accueil-search-logo-container img {
+        width: 157px !important; margin: 0px 90px;
+    }
+}
+
+
+.accueil-search-logo-container h6{
+    text-decoration: underline; padding: 10px; margin: 40px 20px 40px 35px; font-size: 16px; line-height: 24px; font-weight: 400px; font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.souris_img{
+    width: 100%; background-size: cover; margin: 0px;
+}
+
+#after_souris_row{
+    height: 104px; margin-top: -15px; position: relative;
+}
+
+#after_souris_row h6{
+    font-size: 20px; color: #fff; margin-left: 290px; line-height: 30px; font-weight: bold; font-family: Montserrat, Arial, Helvetica, sans-serif; 
+}
+
+.magasin_img{
+    width: 245px; height: 163px; position: absolute; left: 20px; top: -25px;
+}
+
+.spacing-text-box{
+    padding: 50px 0px 10px 0px;
+}
+
+.spacing-text-box h6{
+    font-size: 16px;
+}
+
+.spacing-text-box h6:nth-child(1){
+    background-color: #FF4A4A; height: 19px; width: 4px; margin-right: 10px;
+}
+
+.spacing-text-box h6:nth-child(2){
+    color: #1F5A1E; font-weight: 500; font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+.after-space-text h5{
+    font-size: 44px; margin: 0px 0px 50px 0px; color: #1F5A1E; text-align: center; line-height: 54px; font-weight: 600; font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
