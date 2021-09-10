@@ -1,0 +1,7 @@
+.navigation-box{
+    flex-direction: column; background-color: #fff;
+}
+
+.navigation-box ul {
+    flex-direction: column;
+}

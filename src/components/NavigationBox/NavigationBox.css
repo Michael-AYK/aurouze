@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1224px) {
+    .navigation-box{
+        display: flex; flex-direction: row !important; justify-content: center; align-items: center; width: 100%; margin: 0px; padding: 0px; 
+    }
+    
+    .navigation-box ul {
+        display: flex; flex-direction: row !important;  justify-content: center; align-items: center;
+    }
+}
+
+.navigation-box ul li {
+    list-style: none; margin: 15px;
+}
+
+.navigation-box ul li a {
+    text-decoration: none; color: #275101; font-weight: 600; font-size: 16px; font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
