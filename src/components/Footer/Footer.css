@@ -1,0 +1,43 @@
+.foot{
+    height: 266px; border-bottom: 1px solid rgba(255, 255, 255, 0.3); margin-top: 200px;
+}
+
+.foot-bx-2{
+    height: 118px;
+}
+
+.c1{
+    width: 21%; box-sizing: border-box; margin-right: 30px;
+}
+
+.c1 img{
+    width: 78%;
+}
+
+.c1 h6{
+    font-size: 13px; color: #fff; font-weight: 500; line-height: 19px; margin: 0px; margin-top: 20px; width: 100%;
+}
+
+.c2{
+    margin-right: 20px;
+}
+
+.c2 a{
+    font-weight: 500; margin-top: 15px; width: 125px; font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 13px; line-height: 21px; text-decoration: none; text-align: center; color: #ffe2d2;
+}
+
+.c3{
+    margin-left: 60px;
+}
+
+.c3 a{
+    margin-right: 12px;
+}
+
+.c3 h6{
+    font-size: 16px; text-align: left; line-height: 21px; color: #fff; font-weight: 700; margin: 0px 5px 18px 0px;
+}
+
+.foot-adresse{
+    font-size: 18px; line-height: 21px; font-weight: 400; color: #fff; 
+}
