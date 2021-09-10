@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Michael-AYK/aurouze.git/static/css/main.48b005ec.chunk.css",
+    "main.js": "/Michael-AYK/aurouze.git/static/js/main.69cd2789.chunk.js",
+    "main.js.map": "/Michael-AYK/aurouze.git/static/js/main.69cd2789.chunk.js.map",
+    "runtime-main.js": "/Michael-AYK/aurouze.git/static/js/runtime-main.cd5226b4.js",
+    "runtime-main.js.map": "/Michael-AYK/aurouze.git/static/js/runtime-main.cd5226b4.js.map",
+    "static/js/2.e7c620c2.chunk.js": "/Michael-AYK/aurouze.git/static/js/2.e7c620c2.chunk.js",
+    "static/js/2.e7c620c2.chunk.js.map": "/Michael-AYK/aurouze.git/static/js/2.e7c620c2.chunk.js.map",
+    "static/js/3.2e43f686.chunk.js": "/Michael-AYK/aurouze.git/static/js/3.2e43f686.chunk.js",
+    "static/js/3.2e43f686.chunk.js.map": "/Michael-AYK/aurouze.git/static/js/3.2e43f686.chunk.js.map",
+    "index.html": "/Michael-AYK/aurouze.git/index.html",
+    "static/css/main.48b005ec.chunk.css.map": "/Michael-AYK/aurouze.git/static/css/main.48b005ec.chunk.css.map",
+    "static/js/2.e7c620c2.chunk.js.LICENSE.txt": "/Michael-AYK/aurouze.git/static/js/2.e7c620c2.chunk.js.LICENSE.txt",
+    "static/media/b1.0a583bd8.jpg": "/Michael-AYK/aurouze.git/static/media/b1.0a583bd8.jpg",
+    "static/media/b2.2f18a148.jpg": "/Michael-AYK/aurouze.git/static/media/b2.2f18a148.jpg",
+    "static/media/b3.820c0dd0.jpg": "/Michael-AYK/aurouze.git/static/media/b3.820c0dd0.jpg",
+    "static/media/b4.91567eac.jpg": "/Michael-AYK/aurouze.git/static/media/b4.91567eac.jpg",
+    "static/media/b5.bacef390.jpg": "/Michael-AYK/aurouze.git/static/media/b5.bacef390.jpg",
+    "static/media/b6.9f8e11b5.png": "/Michael-AYK/aurouze.git/static/media/b6.9f8e11b5.png",
+    "static/media/b7.2cde4473.jpg": "/Michael-AYK/aurouze.git/static/media/b7.2cde4473.jpg",
+    "static/media/b8.f1c023ae.jpg": "/Michael-AYK/aurouze.git/static/media/b8.f1c023ae.jpg",
+    "static/media/img3.dbd5d9f8.jpeg": "/Michael-AYK/aurouze.git/static/media/img3.dbd5d9f8.jpeg",
+    "static/media/magasin.1e46b84b.jpg": "/Michael-AYK/aurouze.git/static/media/magasin.1e46b84b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd5226b4.js",
+    "static/js/2.e7c620c2.chunk.js",
+    "static/css/main.48b005ec.chunk.css",
+    "static/js/main.69cd2789.chunk.js"
+  ]
+}
